@@ -1,4 +1,4 @@
-# Spacewalks Example
+# Spacewalks Python Example Project
 
 ## Overview
 
