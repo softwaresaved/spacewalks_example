@@ -1,10 +1,13 @@
 # Spacewalks
 
 ## Overview
-Spacewalks is a Python analysis tool for researchers to generate visualisations and statistical summaries of NASA's extravehicular activity datasets.
+
+This is example Python project used for teaching.
+
+It contains spacewalks analysis tool for researchers to generate visualisations and statistical summaries of NASA's extravehicular activity datasets.
 
 ## Features
-Key features of Spacewalks:
+Key features of spacewalks:
 
 - Generates a CSV table of summary statistics of extravehicular activity crew sizes
 - Generates a line plot to show the cumulative duration of space walks over time
@@ -42,7 +45,7 @@ python3 -m pip install -r requirements.txt
 python3 -m pytest
 ```
 
-## Usage Example
+## Usage example
 
 To run an analysis using the `eva_data_analysis.py` script from the command line terminal, do:
 
