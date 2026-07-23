@@ -2,9 +2,9 @@
 
 ## Overview
 
-This is example Python project used for teaching.
+This is an example Python project used for teaching.
 
-It contains spacewalks analysis tool for researchers to generate visualisations and statistical summaries of NASA's extravehicular activity datasets.
+It contains spacewalks analysis tool (`eva_data_analysis.py`) for researchers to generate visualisations and statistical summaries of NASA's extravehicular activity dataset (`./data/eva_data.json`).
 
 ## Features
 Key features of spacewalks:
