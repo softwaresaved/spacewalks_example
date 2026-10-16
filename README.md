@@ -1,5 +1,8 @@
 # Spacewalks Python Example Project
 
+> [!NOTE]
+> This template is the example code for the [Byte-Sized RSE: Software Packaging with uv](https://github.com/softwaresaved/byte-sized-rse-software-packaging-uv) lesson.
+
 ## Overview
 
 This is an example Python project used for teaching.
